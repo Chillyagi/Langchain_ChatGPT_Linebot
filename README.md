@@ -10,7 +10,7 @@ install following stuff:
 
 [Visual Studio code](https://code.visualstudio.com/download)
 
-[Micorsoft C++ Build Tools](https://code.visualstudio.com/download)
+[Micorsoft C++ Build Tools](https://visualstudio.microsoft.com/zh-hant/visual-cpp-build-tools/)
 
 
 ## Get Start
